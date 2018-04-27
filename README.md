@@ -22,7 +22,7 @@ The Actuator outputs are:
 * steering angle
 * throttle
 
-The state of the current timestep uses the following update equations, based on the previous timestep state.
+The state of the current timestep is calculated using the following update equations, based on the previous timestep state.
 
 ![vehicle model update equations](./vehicle-model-update-equations.png)
 
